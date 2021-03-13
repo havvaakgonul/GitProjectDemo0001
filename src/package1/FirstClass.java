@@ -7,6 +7,8 @@ public class FirstClass {
 		// İbrahim local branch makes changes
 		// Hey guys this is our remote master branch
 
+		//here is the conflicting line
+		//I will conflic my remote master branch
 	}
 
 }
